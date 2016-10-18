@@ -1,5 +1,9 @@
 David Vinegar dvinegar3
 
+Analysis of Support Vector Machine, Neural Nets, K Nearest Neighbors, Decision Trees, and Adaboost can be found in dvinegar3-analysis.pdf.  
+
+The below instructions can be used to replicate the results used in my analysis.  
+
 To obtain training error:
 1)	Open Weka.  
 2)	Click on the Explorer button.
