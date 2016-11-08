@@ -1,4 +1,4 @@
-For an analysis of 6 unsupervised learning techniques, please see dvinegar3-analysis.pdf.  
+TL;DR - For an analysis of 6 unsupervised learning techniques, please see dvinegar3-analysis.pdf. Code to justify the analysis written is in main.py. 
 
 First students were asked to run a number of experiments:
 
